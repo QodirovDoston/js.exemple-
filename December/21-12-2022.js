@@ -4,7 +4,7 @@ Mualif: Qodirov Doston
 Masalan: ayirmani toping
 ----------------------------------*/
 function substraction(num1,num2) {
-    return num1+ num2
+    return num1 - num2
 }
 substraction(110, 21) 
 substraction(1000, 122) 
